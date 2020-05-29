@@ -1,5 +1,5 @@
 # express-mysql-project
-Nazara Tech assignment
+Assignment
 
 use below command to clone project into your directory
 
